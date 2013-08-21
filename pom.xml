@@ -1,0 +1,38 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+
+	<groupId>org.hoteia.tools</groupId>
+	<artifactId>rich-snippets-mapping</artifactId>
+	<version>0.1-SNAPSHOT</version>
+	<packaging>jar</packaging>
+	<name>rich-snippets-mapping</name>
+	<description>Rich-snippets-mapping project, pojo/bean mapping for Rich-snippets like schema.org and data-vocabulary</description>
+	<url>http://www.hoteia.com</url>
+	<inceptionYear>2012-2013</inceptionYear>
+	<organization>
+		<name>Hoteia</name>
+		<url>http://www.hoteia.com</url>
+	</organization>
+
+	<scm>
+		<connection>scm:git:git@github.com:hoteia/rich-snippets-mapping.git</connection>
+		<developerConnection>scm:git:git@github.com:hoteia/rich-snippets-mapping.git</developerConnection>
+		<url>scm:git:git@github.com:hoteia/rich-snippets-mapping.git</url>
+		<tag>HEAD</tag>
+	</scm>
+	
+	<distributionManagement>
+		<repository>
+			<id>releases</id>
+			<name>Hoteia Releases</name>
+			<url>http://nexus.hoteia.com/content/repositories/releases</url>
+		</repository>
+		<snapshotRepository>
+			<id>snapshots</id>
+			<name>Hoteia Snapshots</name>
+			<url>http://nexus.hoteia.com/content/repositories/snapshots</url>
+			<uniqueVersion>false</uniqueVersion>
+		</snapshotRepository>
+	</distributionManagement>
+	
+</project>
