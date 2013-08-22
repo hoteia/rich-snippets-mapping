@@ -1,8 +1,9 @@
-package fr.hoteia.tools.richsnippets.mapping.datavocabulary.pojo;
+package org.hoteia.tools.richsnippets.datavocabulary.mapping.pojo;
 
 import java.io.Serializable;
 
-import fr.hoteia.tools.richsnippets.mapping.AbstractRichSnippetPojo;
+import org.hoteia.tools.richsnippets.common.mapping.pojo.AbstractRichSnippetPojo;
+
 
 /**
 *

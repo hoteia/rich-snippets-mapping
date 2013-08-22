@@ -1,4 +1,4 @@
-package fr.hoteia.tools.richsnippets.mapping;
+package org.hoteia.tools.richsnippets.common.mapping.pojo;
 
 import java.io.Serializable;
 
