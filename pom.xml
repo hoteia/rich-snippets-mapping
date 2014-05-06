@@ -3,7 +3,7 @@
 
 	<groupId>org.hoteia.tools</groupId>
 	<artifactId>rich-snippets-mapping</artifactId>
-	<version>0.1</version>
+	<version>0.2-SNAPSHOT</version>
 	<packaging>jar</packaging>
 	<name>rich-snippets-mapping</name>
 	<description>Rich-snippets-mapping project, pojo/bean mapping for Rich-snippets like schema.org and data-vocabulary</description>
