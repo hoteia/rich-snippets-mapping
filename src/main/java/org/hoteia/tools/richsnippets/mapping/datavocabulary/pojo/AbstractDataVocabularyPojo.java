@@ -4,7 +4,6 @@ import java.io.Serializable;
 
 import org.hoteia.tools.richsnippets.mapping.common.pojo.AbstractRichSnippetPojo;
 
-
 /**
 *
 * <p>
